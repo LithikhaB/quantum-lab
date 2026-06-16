@@ -50,7 +50,9 @@ if selection == "Home":
     )
 
     st.info(
-        "Day 1: Project structure and navigation setup."
+        "Day 1: Project structure and navigation setup." \
+        "Day 2: Qubit Playground" \
+        "Day 3: Bloch Sphere Viz."
     )
 else:
     PAGES[selection]()
