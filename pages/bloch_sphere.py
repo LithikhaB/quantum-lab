@@ -23,3 +23,5 @@ def render_bloch_sphere() -> None:
     fig = plot_bloch_multivector(state)
 
     st.pyplot(fig)
+
+render_bloch_sphere()

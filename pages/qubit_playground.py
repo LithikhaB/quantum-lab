@@ -54,3 +54,5 @@ def render_qubit_playground() -> None:
     st.divider()
 
     render_reset()
+
+render_qubit_playground()
